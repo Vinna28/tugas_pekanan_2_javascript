@@ -6,4 +6,4 @@ How to run:
 1. Clone repository
 2. Masuk ke dalam folder / repository yang sudah terclone di local
 3. Jalankan command "npm install"
-4. Jalankan command "node <file javascript yang terkait>"
+4. Jalankan command "node file javascript"
